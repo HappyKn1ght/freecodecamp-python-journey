@@ -2,17 +2,19 @@
 
 Welcome to my personal repository tracking my progress through the **freeCodeCamp Python Curriculum**. This repository serves as a digital portfolio of my coding journey, showcasing the mini-projects, workshops, and computational logic scripts I build along the way.
 
-## 📁 Repository Structure
 
-The project is organized systematically into workshop-specific directories:
+## 🎯 Current Progress & Roadmap
 
-* **`01_report_card_printer/`** - An introduction to core data types (Strings, Integers, Floats, and Booleans) formatting a clean student report card output.
-* **`02_employee_profile_generator/`** - Practice with string manipulation, type casting, f-strings, and advanced string slicing using positive and negative index positions.
-* **`03_bill_splitter/`** - A script applying primitive arithmetic and the `+=` operator to calculate restaurant bills and divide costs accurately among friends.
-* **`04_movie_ticket_booking_calculator/`** - An exploration of conditional logic (`if-else` blocks), checking value truthiness, and dynamically updating pricing variables.
-* **`05_travel_weather_planner/`** - **[LAB]** A standalone script using complex conditional logic arrays to recommend packing lists and destinations based on temperature and precipitation values.
+- [x] **Module 1: Python Basics** 
+- [ ] **Module 2: Loops and Sequences**
+- [ ] **Module 3: Dictionaries and Sets** (Includes Certification Project 1)
+- [ ] **Module 4: Error Handling**
+- [ ] **Module 5: Classes, Objects, & OOP** (Includes Certification Projects 2 & 3)
+- [ ] **Module 6: Linear Data Structures & Algorithms** (Includes Certification Projects 4 & 5)
+- [ ] **Module 7: Graphs, Trees, & Dynamic Programming**
+- [ ] **Final Exam & Certification** 🎓
 
-
+---
 
 
 ## 🚀 Technical Stack & Tools Used
@@ -26,3 +28,12 @@ The project is organized systematically into workshop-specific directories:
 * Master foundational logic, data types, and syntax structures in Python.
 * Implement production-ready workflows using the command line interface (CLI) for version control.
 * Learn to write clean, self-documenting code.
+
+
+## ⚖️ License & Academic Disclaimer
+
+This repository is licensed under the **MIT License**. You are free to review, use, and learn from the code labs and workshops.
+
+⚠️ **CRITICAL NOTE ON ACADEMIC HONESTY:** 
+The 5 main Certification Projects contained in this repository are for **demonstration and portfolio purposes only**. 
+Copying this code directly to submit for your own freeCodeCamp account violates the **freeCodeCamp Academic Honesty Policy** and will result in the permanent suspension of both of our accounts. Please write your own solutions!
