@@ -7,8 +7,8 @@ Welcome to my personal repository tracking my progress through the **freeCodeCam
 The project is organized systematically into workshop-specific directories:
 
 * **`01_report_card_printer/`** - An introduction to core data types (Strings, Integers, Floats, and Booleans) formatting a clean student report card output.
-* **`02_employee_card_generator/`** - Practice with string manipulation, type casting, f-strings, and advanced string slicing using positive and negative index positions.
-* **`03_bill_calculator/`** - A script applying primitive arithmetic and the `+=` operator to calculate restaurant bills and divide costs accurately among friends.
+* **`02_employee_profile_generator/`** - Practice with string manipulation, type casting, f-strings, and advanced string slicing using positive and negative index positions.
+* **`03_bill_splitter/`** - A script applying primitive arithmetic and the `+=` operator to calculate restaurant bills and divide costs accurately among friends.
 
 
 
