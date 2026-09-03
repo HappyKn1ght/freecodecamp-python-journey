@@ -9,6 +9,9 @@ The project is organized systematically into workshop-specific directories:
 * **`01_report_card_printer/`** - An introduction to core data types (Strings, Integers, Floats, and Booleans) formatting a clean student report card output.
 * **`02_employee_profile_generator/`** - Practice with string manipulation, type casting, f-strings, and advanced string slicing using positive and negative index positions.
 * **`03_bill_splitter/`** - A script applying primitive arithmetic and the `+=` operator to calculate restaurant bills and divide costs accurately among friends.
+* **`04_movie_ticket_booking_calculator/`** - An exploration of conditional logic (`if-else` blocks), checking value truthiness, and dynamically updating pricing variables.
+* **`05_travel_weather_planner/`** - **[LAB]** A standalone script using complex conditional logic arrays to recommend packing lists and destinations based on temperature and precipitation values.
+
 
 
 
