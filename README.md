@@ -6,7 +6,7 @@ Welcome to my personal repository tracking my progress through the **freeCodeCam
 ## 🎯 Current Progress & Roadmap
 
 - [x] **Module 1: Python Basics** 
-- [ ] **Module 2: Loops and Sequences**
+- [x] **Module 2: Loops and Sequences**
 - [ ] **Module 3: Dictionaries and Sets** (Includes Certification Project 1)
 - [ ] **Module 4: Error Handling**
 - [ ] **Module 5: Classes, Objects, & OOP** (Includes Certification Projects 2 & 3)
