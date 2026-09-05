@@ -36,4 +36,4 @@ This repository is licensed under the **MIT License**. You are free to review, u
 
 ⚠️ **CRITICAL NOTE ON ACADEMIC HONESTY:** 
 The 5 main Certification Projects contained in this repository are for **demonstration and portfolio purposes only**. 
-Copying this code directly to submit for your own freeCodeCamp account violates the **freeCodeCamp Academic Honesty Policy** and will result in the permanent suspension of both of our accounts. Please write your own solutions!
+Copying this code directly to submit for your own freeCodeCamp account violates the **freeCodeCamp Academic Honesty Policy** and will result in the permanent suspension of both of our accounts. Please write your own solutions
