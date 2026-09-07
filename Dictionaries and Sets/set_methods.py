@@ -1,6 +1,6 @@
 my_set = {1, 2, 3, 4, 5}
 your_set = {2, 3, 4, 6}
-
+print(f"5 in my_set: {5 in my_set}")
 print(f"issubset: {your_set.issubset(my_set)}")
 print(f"issuperset: {my_set.issuperset(your_set)}")
 print(f"isdisjoint: {my_set.isdisjoint(your_set)}")
