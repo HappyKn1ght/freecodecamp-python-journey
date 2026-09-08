@@ -30,7 +30,7 @@ medical_records = [
         'diagnosis': 'Chronic Back Pain',
         'medications': ['Ibuprofen', 'Physical Therapy'],
         'last_visit_id': 'V2304',
-    }
+    }   
 ]
 
 def validate(data):
@@ -41,12 +41,13 @@ def validate(data):
         return False
         
     is_invalid = False
+    key_set = set(['patient_id', 'age', 'gender', 'diagnosis', 'medications', 'last_visit_id'])    
 
     for index, dictionary in enumerate(data):
         if not isinstance(dictionary, dict):
             print(f'Invalid format: expected a dictionary at position {index}.')
             is_invalid = True
-            
+
     if is_invalid:
         return False
     print('Valid format.')
