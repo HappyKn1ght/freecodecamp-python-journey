@@ -7,7 +7,7 @@ Welcome to my personal repository tracking my progress through the **freeCodeCam
 
 - [x] **Module 1: Python Basics** 
 - [x] **Module 2: Loops and Sequences**
-- [ ] **Module 3: Dictionaries and Sets** (Includes Certification Project 1)
+- [x] **Module 3: Dictionaries and Sets** (Includes Certification Project 1)
 - [ ] **Module 4: Error Handling**
 - [ ] **Module 5: Classes, Objects, & OOP** (Includes Certification Projects 2 & 3)
 - [ ] **Module 6: Linear Data Structures & Algorithms** (Includes Certification Projects 4 & 5)
