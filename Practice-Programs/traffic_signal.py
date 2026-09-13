@@ -1,3 +1,5 @@
+#program for traffic signal simulation
+
 light = input("Enter Traffic Signal light:").lower()
 
 if(light=="red"):
